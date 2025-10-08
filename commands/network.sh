@@ -1,5 +1,5 @@
 #!/bin/bash
-# Network Commands
+# XDOSshell Network Commands
 # Supports: ping, netstat, tracert/traceroute, nslookup
 
 cmd="$1"
