@@ -17,4 +17,6 @@ update:comfort:Runs apt-get update/upgrade/autoclean/autoremove:update - Runs ap
 ssh:comfort:ssh client:ssh - ssh user@host
 scp:comfort:scp client:scp - scp source destination
 firefox:random:Start Firefox via xinit:firefox - Launches firefox-esr via xinit
-
+ping:network:Ping a host or IP:ping <host>
+netstat:network:Show network connections:netstat [options]
+tracert/traceroute:network:Trace route to a host:tracert <host>
