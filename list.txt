@@ -20,3 +20,4 @@ firefox:random:Start Firefox via xinit:firefox - Launches firefox-esr via xinit
 ping:network:Ping a host or IP:ping <host>
 netstat:network:Show network connections:netstat [options]
 tracert/traceroute:network:Trace route to a host:tracert <host>
+nslookup:network:Query DNS information:nslookup <domain>

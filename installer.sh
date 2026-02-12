@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-TARGET_DIR="/1002xCMD"
+TARGET_DIR="/etc/1002xCMD"
 SRC_DIR="$(dirname "$(realpath "$0")")"
 
 echo "📁 Creating target directory $TARGET_DIR if not exists..."
